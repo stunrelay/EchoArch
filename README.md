@@ -1,5 +1,6 @@
 # EchoArch
 Portrait touch input gamepad overlays for phones running RetroArch
+
 🎮 EchoArch
 
 EchoArch is a refined set of touch gamepad overlays for RetroArch, designed specifically for phones in portrait mode. Built on the foundation of DeltArch and Delta, these overlays offer remixed palettes, quality of life features and expanded system support.
