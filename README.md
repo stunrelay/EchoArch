@@ -25,13 +25,13 @@ EchoArch is a refined set of touch gamepad overlays for RetroArch, designed spec
 
 📦 Installation
 
-    Copy the delta-prime/ folder into your RetroArch overlays/ directory.
+    Copy the EchoArch/ folder into your RetroArch overlays/ directory.
 
     In RetroArch:
 
         Go to Settings > On-Screen Display > On-Screen Overlay
 
-        Choose your preferred DeltaPrime overlay
+        Choose your preferred EchoArch overlay
 
     Turn off Auto-Scale first — only enable it if scaling looks incorrect
 
