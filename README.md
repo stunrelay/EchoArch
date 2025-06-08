@@ -35,6 +35,7 @@ EchoArch is a refined set of touch gamepad overlays for RetroArch, designed spec
 
     Turn off Auto-Scale first — only enable it if scaling looks incorrect
 
+Screenshots (Scaling may look slightly different on your device. Shaders applied not included.)
 <img width="274" alt="Screenshot 2025-06-08 at 12 31 12 pm" src="https://github.com/user-attachments/assets/fc8f09e4-0a04-48b3-8abb-0ff7bcbebc1a" />
 <img width="272" alt="Screenshot 2025-06-08 at 12 31 32 pm" src="https://github.com/user-attachments/assets/6e4b5508-6d5a-49da-990d-4140d79b3eb0" />
 <img width="274" alt="Screenshot 2025-06-08 at 12 31 41 pm" src="https://github.com/user-attachments/assets/59902986-98c7-40d7-a6bf-60909111055f" />
