@@ -79,9 +79,9 @@ Now updated to v2.0 — with even more flexibility, features, and system support
   <img width="264" src="https://github.com/user-attachments/assets/e2b6da2c-2b99-428d-87ef-4eec3301ff3e" />
   <img width="270" src="https://github.com/user-attachments/assets/43eeedc9-bba1-4bed-8ed5-aa3a42fbd323" />
   <img width="270" src="https://github.com/user-attachments/assets/a8eac596-cd1c-4679-b41c-f082e84c1971" />
-  <img width="270" src="https://github.com/user-attachments/assets/962dae29-9277-4275-91c2-26a2594573c8" />
   <img width="270" src="https://github.com/user-attachments/assets/e38260ba-074d-4a6f-96b4-34486a0791de" />
-  <img width="270" src="https://github.com/user-attachments/assets/8b2fb6a1-5853-48e7-925c-c186ea3335e9" />
+  <img width="270" src="https://github.com/user-attachments/assets/962dae29-9277-4275-91c2-26a2594573c8" />
+  <img width="270" src="https://github.com/user-attachments/assets/98cf4207-081a-453f-96e7-48246cce28dc" />
   <img width="270" src="https://github.com/user-attachments/assets/048131b6-24f7-4c5a-9435-676dd40c2d1d" />
 </p>
 
