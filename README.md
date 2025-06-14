@@ -68,12 +68,27 @@ Now updated to v2.0 — with even more flexibility, features, and system support
     Note: Scaling may look different depending on your device.
     Shaders shown in images not included.
 
-<p float="left"> <img width="274" src="https://github.com/user-attachments/assets/fc8f09e4-0a04-48b3-8abb-0ff7bcbebc1a" /> <img width="272" src="https://github.com/user-attachments/assets/6e4b5508-6d5a-49da-990d-4140d79b3eb0" /> <img width="274" src="https://github.com/user-attachments/assets/59902986-98c7-40d7-a6bf-60909111055f" /> <img width="274" src="https://github.com/user-attachments/assets/789d4046-ab7c-4507-9d7f-b2bea2e59bd7" /> <img width="267" src="https://github.com/user-attachments/assets/2be3133c-2fec-495f-9c5e-a9c9eb879529" /> <img width="268" src="https://github.com/user-attachments/assets/aed42788-ed1d-4fd5-8538-9162a54d9bb1" /> <img width="272" src="https://github.com/user-attachments/assets/5cfff903-fdf8-4631-9fd7-d725a159b895" /> <img width="264" src="https://github.com/user-attachments/assets/e2b6da2c-2b99-428d-87ef-4eec3301ff3e" /> <img width="270" src="https://github.com/user-attachments/assets/43eeedc9-bba1-4bed-8ed5-aa3a42fbd323" />![IMG_7205](https://github.com/user-attachments/assets/a8eac596-cd1c-4679-b41c-f082e84c1971)![IMG_7206](https://github.com/user-attachments/assets/962dae29-9277-4275-91c2-26a2594573c8)![IMG_7213](https://github.com/user-attachments/assets/e38260ba-074d-4a6f-96b4-34486a0791de)![IMG_7211](https://github.com/user-attachments/assets/8b2fb6a1-5853-48e7-9e![IMG_7210](https://github.com/user-attachments/assets/048131b6-24f7-4c5a-9435-676dd40c2d1d)
-25-c186ea3335e9) </p>
+<p float="left">
+  <img width="274" src="https://github.com/user-attachments/assets/fc8f09e4-0a04-48b3-8abb-0ff7bcbebc1a" />
+  <img width="272" src="https://github.com/user-attachments/assets/6e4b5508-6d5a-49da-990d-4140d79b3eb0" />
+  <img width="274" src="https://github.com/user-attachments/assets/59902986-98c7-40d7-a6bf-60909111055f" />
+  <img width="274" src="https://github.com/user-attachments/assets/789d4046-ab7c-4507-9d7f-b2bea2e59bd7" />
+  <img width="267" src="https://github.com/user-attachments/assets/2be3133c-2fec-495f-9c5e-a9c9eb879529" />
+  <img width="268" src="https://github.com/user-attachments/assets/aed42788-ed1d-4fd5-8538-9162a54d9bb1" />
+  <img width="272" src="https://github.com/user-attachments/assets/5cfff903-fdf8-4631-9fd7-d725a159b895" />
+  <img width="264" src="https://github.com/user-attachments/assets/e2b6da2c-2b99-428d-87ef-4eec3301ff3e" />
+  <img width="270" src="https://github.com/user-attachments/assets/43eeedc9-bba1-4bed-8ed5-aa3a42fbd323" />
+  <img width="270" src="https://github.com/user-attachments/assets/a8eac596-cd1c-4679-b41c-f082e84c1971" />
+  <img width="270" src="https://github.com/user-attachments/assets/962dae29-9277-4275-91c2-26a2594573c8" />
+  <img width="270" src="https://github.com/user-attachments/assets/e38260ba-074d-4a6f-96b4-34486a0791de" />
+  <img width="270" src="https://github.com/user-attachments/assets/8b2fb6a1-5853-48e7-925c-c186ea3335e9" />
+  <img width="270" src="https://github.com/user-attachments/assets/048131b6-24f7-4c5a-9435-676dd40c2d1d" />
+</p>
+
 💬 Feedback Welcome
 
 Enjoying EchoArch?
-Share a screenshot — and include your device model if possible. It helps improve future updates!
+Share a screenshot — and include your device model if possible.
 
 🙏 Acknowledgements
 
