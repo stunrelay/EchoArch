@@ -1,6 +1,7 @@
 🎮 EchoArch
 
 Touch-friendly overlays for RetroArch on mobile
+
 Clean. Colorful. Feature-full.
 
 EchoArch is a stylish touch gamepad overlay pack for RetroArch on phones. This pack adds modern polish, animated elements, expanded compatibility, and thoughtful design tweaks to elevate your on-screen controls.
