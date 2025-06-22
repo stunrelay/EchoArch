@@ -2,7 +2,7 @@
 
 **Touch-friendly overlays + custom shaders for RetroArch**
 
-Clean. Colorful. Now with CRT.
+Clean. Colorful. Complete.
 
 EchoArch started as a stylish overlay pack for RetroArch on mobile — and with **v3.0**, it evolves into a full visual experience with **custom-designed shaders**, new overlays, and broader platform support.
 
