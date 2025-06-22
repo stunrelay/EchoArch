@@ -1,0 +1,8 @@
+shaders = 1
+
+shader0 = "echoarch_bezel_11-gbc-berrymagenta.slang"
+
+filter_linear0 = true
+wrap_mode0 = "clamp_to_border"
+float_framebuffer0 = false
+srgb_framebuffer0 = false
