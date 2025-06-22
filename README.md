@@ -28,6 +28,7 @@ EchoArch started as a stylish overlay pack for RetroArch on mobile — and with 
 - Color-matched themes to the EchoArch overlays as well as classic console variants
 - Scales beautifully across phones, tablets, TVs, PCs, and handhelds
 - Compatible with **any overlays**, not just EchoArch
+⚠️ Note: Fullscreen NDS shaders may break touchscreen support. These are best used only on non-touchscreen devices, or when touchscreen input isn’t needed.
 
 ---
 
