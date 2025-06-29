@@ -1,5 +1,0 @@
-shaders = 1
-
-shader0 = "echoarch_bezel_43-psx-crtsimple-beige.slang"
-filter_linear0 = false
-wrap_mode0 = "clamp_to_edge"

@@ -1,7 +1,0 @@
-shaders = 1
-
-shader0 = "echoarch_bezel_nds-lcd3x-autolayout-black.slang"
-
-parameters = "brighten_scanlines;brighten_lcd"
-brighten_scanlines = "16.0"
-brighten_lcd = "4.0"

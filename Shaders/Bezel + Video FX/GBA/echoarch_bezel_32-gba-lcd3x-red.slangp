@@ -1,9 +1,0 @@
-shaders = 1
-
-shader0 = "echoarch_bezel_32-gba-lcd3x-red.slang"
-filter_linear0 = false
-wrap_mode0 = "clamp_to_edge"
-
-parameters = "brighten_scanlines;brighten_lcd"
-brighten_scanlines = "16.0"
-brighten_lcd = "4.0"

@@ -1,6 +1,0 @@
-shaders = 1
-
-shader0 = "echoarch_bezel_43-snes-purple.slang"
-filter_linear0 = false
-wrap_mode0 = "clamp_to_edge"
-
