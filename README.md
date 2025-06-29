@@ -53,11 +53,17 @@ PocketArch started as a stylish overlay pack for RetroArch on mobile — and now
 
 ### 🔽 Installing PocketArch
 
-1. Go to the [PocketArch GitHub](https://github.com/your-repo)  
+1. Go to the [PocketArch GitHub](https://github.com/PocketArch)  
 2. Scroll to **Releases** → Download the latest **Source code (.zip)**  
 3. Unzip the `PocketArch/` folder somewhere inside your **RetroArch** directory  
 
 ### 🎛 Loading Shaders & Overlays
+
+> ⚠️ Since these are all **.slang shaders**, you must be using the **Vulkan video driver**. If not, the shader folders will appear empty.
+>
+> To set Vulkan:  
+> - **Main Menu → Settings → Video → Output → Video Driver → Vulkan**  
+> - Then go to **Main Menu → Configuration File → Save Current Configuration**
 
 1. Launch a game → **Quick Menu → Shaders → Load Preset** → Choose a PocketArch shader  
 2. **Save Preset → Save Core Preset**  
@@ -65,10 +71,10 @@ PocketArch started as a stylish overlay pack for RetroArch on mobile — and now
 4. Back in-game → **Quick Menu → On-Screen Overlay → Overlay Preset** → Choose a PocketArch overlay  
 5. Set **Overlay Opacity → 1.00**  
 6. Set **Auto-Scale Overlay → Off**  
-7. **Quick Menu → Overrides → Save Core Override**  
+7. **Quick Menu → Overrides → Save Core Override**
 
 > ⚠️ For **N64 shaders**, go to **Quick Menu → Core Options** and set the video plugin to **ParaLLEl RDP** to enable  
-> ✅ **Recommended:** Use **transparent overlays** with PocketArch shaders for the intended visual effect  
+> ✅ **Recommended:** Use **transparent overlays**  
 
 ---
 
