@@ -1,0 +1,6 @@
+shaders = 1
+
+shader0 = "echoarch_bezel_43-saturn-japangrey.slang"
+filter_linear0 = false
+wrap_mode0 = "clamp_to_edge"
+
