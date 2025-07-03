@@ -1,4 +1,4 @@
-# 🎮 PocketArch 4.0
+# 🎮 PocketArch 4.5
 
 *Formerly known as EchoArch*
 
@@ -6,7 +6,9 @@
 
 Clean. Colorful. Complete.
 
-PocketArch started as a stylish overlay pack for RetroArch on mobile — and now in **v4.0**, it evolves into a full visual experience with **animated transparent overlays**, new platform support, and major shader design upgrades.
+PocketArch started as a stylish overlay pack for RetroArch on mobile — and in **v4.0**, it evolved into a full visual experience with **animated transparent overlays**, new platform support, and major shader design upgrades.  
+**Now, version 4.5 brings integer scaling options to shaders.**
+
 
 ---
 
@@ -32,9 +34,11 @@ PocketArch started as a stylish overlay pack for RetroArch on mobile — and now
 - Console-specific design elements  
 - Console color-matched palettes for all supported systems  
 - Compatible with **any overlay**, not just PocketArch  
-- Scales beautifully across phones, tablets, TVs, PCs, and handhelds  
+- Scales beautifully across phones, tablets, TVs, PCs, and handhelds
+- Adds integer scaling to the video output while preserving fullscreen bezel design (Note: Keep integer scaling off in the RetroArch settings as the shader handles all the scaling)
 
-> ⚠️ Fullscreen NDS shaders may break touchscreen support — best used only on non-touchscreen devices or when touchscreen input isn’t needed  
+> ⚠️ Integer scaling shaders may increase bezel size and produce odd results depending on your device resolution  
+> ⚠️ Fullscreen NDS shaders may break touchscreen support — best used only on non-touchscreen devices or when touchscreen input isn’t needed
 
 ---
 
