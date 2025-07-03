@@ -85,7 +85,7 @@ PocketArch started as a stylish overlay pack for RetroArch on mobile — and in 
 ## 🖼️ Screenshots (examples, not exhaustive)
 > Note: Scaling may vary slightly depending on your screen size. Shaders shown in images are included in v4.0.
 
-Shaders & Transparent Overlays:
+Shaders (with Video FX) & Transparent Overlays:
 ![IMG_7650](https://github.com/user-attachments/assets/345a96a1-6706-4e1a-804b-10c33b6c4bc0)
 ![IMG_7648](https://github.com/user-attachments/assets/bcc791fa-7bbe-4c04-9427-480d1da23e5d)
 ![IMG_7645](https://github.com/user-attachments/assets/da6240e2-8e54-40fd-b3a7-99290c903d13)
@@ -110,6 +110,11 @@ Pause Menu:
 ![IMG_7653](https://github.com/user-attachments/assets/2101ee1e-577e-49c4-862e-e18f63a9e35d)
 ![IMG_7652](https://github.com/user-attachments/assets/d88821f4-b261-43da-98e8-61f0ccccca7d)
 
+Shaders (with Integer Scaling + Video FX) & Transparent Overlays:
+![IMG_7710](https://github.com/user-attachments/assets/3dc779df-2ede-4a21-9f24-9e54281c0249)
+![IMG_7708](https://github.com/user-attachments/assets/abc5127c-830b-44df-aef1-511b7f7ec5b1)
+![IMG_7711](https://github.com/user-attachments/assets/ace15d22-bc54-4e11-8e3b-bb8ade31dc01)
+![IMG_7709](https://github.com/user-attachments/assets/52f18a39-2ed8-42fc-b25b-ece296d2081a)
 
 ---
 
